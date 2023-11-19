@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://vijay-messaging-app.netlify.app/)
+This section has moved here: [Link](https://vijay-messaging-app.netlify.app/)
 
 ### `npm run build` fails to minify
 
